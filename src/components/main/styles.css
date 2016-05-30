@@ -1,0 +1,19 @@
+.post-P{
+  background-color: #00d6b2;
+  font-size:36px;
+  color:red;
+  transition: all .5s ease;
+  border-bottom: 1px solid white;
+  display: block;
+  border-radius: 5px;
+}
+
+
+.index {
+  & img {
+    margin: 40px auto;
+    border-radius: 4px;
+    background: #ffffff;
+    display: block;
+  }
+}
